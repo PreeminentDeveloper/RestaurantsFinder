@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774814948094",
+    "firebase_url": "https://restaurants-finder-281122.firebaseio.com",
+    "project_id": "restaurants-finder-281122",
+    "storage_bucket": "restaurants-finder-281122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774814948094:android:90f6ff9ea41eb201a923af",
+        "android_client_info": {
+          "package_name": "com.preeminentdeveloper.restaurants_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774814948094-kildo68fk2cflqsridirihuehuufaeik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Oy_MXRGzxo7cwx7DsAuwIQkRzblfj4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774814948094-kildo68fk2cflqsridirihuehuufaeik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
