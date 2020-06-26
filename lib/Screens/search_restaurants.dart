@@ -6,7 +6,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 // import 'package:location/location.dart' as LocationManager;
 import 'place_detail.dart';
 
-const kGoogleApiKey = "AIzaSyDblwsqgCRpPqCkjIuG_9CCaL3OIkyHF4E";
+const kGoogleApiKey = "YOUR_KEY";
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 
 class SearchRestaurants extends StatefulWidget {
